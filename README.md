@@ -11,4 +11,4 @@
 
 - Repo URL: https://github.com/CompetitiveLin/Snake-in-Contribution-Grid
 - Markdown Syntax: `![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)`
-- Preview: ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+- Preview: ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg?palette=github-dark)
